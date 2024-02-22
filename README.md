@@ -34,6 +34,8 @@ Usage:
 - The application will perform OCR on the uploaded image and display the extracted text along with key features.
 How to run this code:
 >pip install numpy easyocr pillow streamlit
+
+
 >streamlit run app.py
 
 
